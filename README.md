@@ -22,10 +22,5 @@ The order allocation application optimizes the distribution of orders to stores 
 ### Influence Maximization in Social Networks
 The influence maximization application identifies the most influential nodes in a social network using neural networks...
 
-## Usage
-1. Clone the repository: `git clone https://github.com/your-username/NN-Optimization-Solutions.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Navigate to the specific application folder and follow the instructions in the respective README.md.
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
