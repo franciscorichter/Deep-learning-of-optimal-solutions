@@ -1,11 +1,6 @@
 # Neural Network Optimization Solutions
 
-## Authors
-- Francisco Richter
-- Eduardo Carriel
-- Ernst Wit
 
-## Abstract
 This repository contains software for applying neural networks to solve NP-hard optimization problems. The current applications include order allocation and influence maximization in social networks.
 
 ## Table of Contents
@@ -33,4 +28,4 @@ The influence maximization application identifies the most influential nodes in 
 3. Navigate to the specific application folder and follow the instructions in the respective README.md.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details..
+This project is licensed under the MIT License - see the LICENSE file for details.
